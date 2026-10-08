@@ -5,7 +5,7 @@
 
 ## How to reproduce / Cómo reproducir
 ```bash
-git clone <this-repo-url> && cd repro-lab
+git clone https://github.com/angelaacosta-byte/repro-lab.git && cd repro-lab
 pip install -r requirements.txt
 PYTHONHASHSEED=0 python src/train.py --seed 42
 ```
