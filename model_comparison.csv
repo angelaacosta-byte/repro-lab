@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_sd,worst,best,n_seeds
+Majority class (baseline),0.6274,0.0,0.6274,0.6274,5
+Logistic regression,0.9786,0.0031,0.9737,0.9824,5
+Random forest (100 trees),0.96,0.0049,0.9543,0.9649,5
